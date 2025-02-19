@@ -9,6 +9,8 @@ This repository contains an **advanced** guide on optimizing Apache Spark for la
 - **Shuffling Optimization**
 - **Performance Monitoring & Profiling**
 
+📖 **Read the Full Article on Medium:** [Link to Medium](https://medium.com/@usefusefi/optimizing-apache-spark-for-large-scale-data-processing-f66a01d14a93)
+
 ## 📂 Repository Structure
 - `/code_examples/` - Python & PySpark scripts for optimizations.
 - `/notebooks/` - Jupyter Notebook with interactive examples.
