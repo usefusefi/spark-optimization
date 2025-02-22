@@ -18,6 +18,21 @@ This repository contains an **advanced** guide on optimizing Apache Spark for la
 
 ## 🏗 How to Use
 1. Clone this repository:
-   ```bash
-   git clone https://github.com/usefusefi/spark-optimization.git
-   cd spark-optimization
+```bash
+git clone https://github.com/usefusefi/spark-optimization.git
+cd spark-optimization
+```
+2️. Run Optimization Scripts To execute the scripts in a Spark environment:
+```bash
+spark-submit code_examples/memory_tuning.py
+```
+
+3️. Explore Interactive Jupyter Notebook
+```bash
+jupyter notebook notebooks/spark_optimization.ipynb
+```
+
+4️. Use the Optimized spark-submit Script, Submit Spark jobs with optimized configurations:
+```bash
+bash configs/spark-submit.sh
+```
